@@ -18,8 +18,8 @@
 ## Certifications
 ### Java Certification
 [![Java Certification](https://img.shields.io/badge/Certification-Java-brightgreen)](https://github.com/user-attachments/files/16868579/certificate.java.pdf)
-### SAM Certification
-[![SAM Certification](https://img.shields.io/badge/Certification-SAM-brightgreen)](https://github.com/user-attachments/files/16868581/certificate.SAM.pdf)
+### System Administration and Maintenance Certification
+[![System Administration and Maintenance](https://img.shields.io/badge/Certification-SAM-brightgreen)](https://github.com/user-attachments/files/16868581/certificate.SAM.pdf)
 
 
 
