@@ -18,11 +18,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AcsOfficial&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## Certifications:
+## Certifications
 ### Java Certification
-[![Java Certification](https://img.shields.io/badge/Certification-Java-brightgreen)](https://github.com/user-attachments/files/16868579/certificate.java.pdf)
+![Java Certification](https://github.com/yourusername/yourrepository/path/to/java-certification-image.png)
 ### SAM Certification
-[![SAM Certification](https://img.shields.io/badge/Certification-SAM-brightgreen)](https://github.com/user-attachments/files/16868581/certificate.SAM.pdf)
+![SAM Certification](https://github.com/yourusername/yourrepository/path/to/sam-certification-image.png)
+
 
 
 
