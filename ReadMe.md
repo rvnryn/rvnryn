@@ -15,9 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=AcsOfficial&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ## Certifications
 ### Java Certification
 [![Java Certification](https://img.shields.io/badge/Certification-Java-brightgreen)](https://github.com/user-attachments/files/16868579/certificate.java.pdf)
