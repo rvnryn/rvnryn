@@ -20,9 +20,10 @@
 
 ## Certifications
 ### Java Certification
-![Java Certification](https://github.com/yourusername/yourrepository/path/to/java-certification-image.png)
+[![Java Certification](https://img.shields.io/badge/Certification-Java-brightgreen)](https://github.com/user-attachments/files/16868579/certificate.java.pdf)
 ### SAM Certification
-![SAM Certification](https://github.com/yourusername/yourrepository/path/to/sam-certification-image.png)
+[![SAM Certification](https://img.shields.io/badge/Certification-SAM-brightgreen)](https://github.com/user-attachments/files/16868581/certificate.SAM.pdf)
+
 
 
 
