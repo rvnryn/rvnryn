@@ -74,43 +74,9 @@
 ###
 <h3 align="left">📜 Certificates:</h3>
 
-<!-- 🔹 Quick View with Badges -->
-[![Java](https://img.shields.io/badge/Certificate-Java-blue)](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)
-[![Cybersecurity](https://img.shields.io/badge/Certificate-Cybersecurity%20Fundamentals-green)](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)
-[![SysAdmin](https://img.shields.io/badge/Certificate-Systems%20Administration-orange)](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)
-[![SAP](https://img.shields.io/badge/Certificate-SAP-red)](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)
-
----
-
-<!-- 🔹 Collapsible Section -->
-<details>
-  <summary>📂 Click to view detailed certificates</summary>
-
-- [Java Certificate](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)  
-- [Cybersecurity Fundamentals Certificate](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)  
-- [Systems Administration Certificate](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)  
-- [SAP Certificate](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)  
-
-</details>
-
----
-
-<!-- 🔹 (Optional) Thumbnails Preview -->
-<!-- Upload certificate images in your repo (e.g., /certificates/java.png) -->
-<p align="left">
-  <a href="https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing">
-    <img src="certificates/java.png" alt="Java Certificate" width="200"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing">
-    <img src="certificates/cybersecurity.png" alt="Cybersecurity Certificate" width="200"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing">
-    <img src="certificates/sysadmin.png" alt="Systems Administration Certificate" width="200"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing">
-    <img src="certificates/sap.png" alt="SAP Certificate" width="200"/>
-  </a>
-</p>
-
+- [![Java](https://img.shields.io/badge/Certificate-Java-blue)](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)  
+- [![Cybersecurity](https://img.shields.io/badge/Certificate-Cybersecurity%20Fundamentals-green)](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)  
+- [![SysAdmin](https://img.shields.io/badge/Certificate-Systems%20Administration-orange)](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)  
+- [![SAP](https://img.shields.io/badge/Certificate-SAP-red)](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)
 
 ###
