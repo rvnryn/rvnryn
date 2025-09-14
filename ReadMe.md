@@ -73,9 +73,10 @@
 
 ###
 <h3 align="left">📜 Certificates:</h3>
-- [Java Certificate](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)  
-- [Cybersecurity Fundamentals Certificate](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)  
-- [Systems Administration Certificate](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)
-- [SAP Certificate](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)
+
+- [![Java](https://img.shields.io/badge/Certificate-Java-blue)](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)  
+- [![Cybersecurity](https://img.shields.io/badge/Certificate-Cybersecurity%20Fundamentals-green)](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)  
+- [![SysAdmin](https://img.shields.io/badge/Certificate-Systems%20Administration-orange)](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)  
+- [![SAP](https://img.shields.io/badge/Certificate-SAP-red)](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)
 
 ###
