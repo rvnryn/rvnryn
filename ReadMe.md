@@ -72,11 +72,10 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AcsOfficial/AcsOfficial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AcsOfficial/AcsOfficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AcsOfficial/AcsOfficial/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="left">📜 Certificates:</h3>
+- [Java Certificate](https://drive.google.com/file/d/13oYP-y4aVKE3fnmmQjDdqBH-URXZ5sKT/view?usp=sharing)  
+- [Cybersecurity Fundamentals Certificate](https://drive.google.com/file/d/1ObnBac8JX3LXgA0wgZ16g7JEIUj3V8Qx/view?usp=sharing)  
+- [Systems Administration Certificate](https://drive.google.com/file/d/1KdFwyfqZyKHnqfYGz8PJhyRDCopNbPzy/view?usp=sharing)
+- [SAP Certificate](https://drive.google.com/file/d/1iFDtD3j6uIgBbL4T5nvee9lSwZaHHMUw/view?usp=sharing)
 
 ###
