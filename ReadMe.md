@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AcsOfficial.AcsOfficial&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rvnryn.rvnryn&"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rvnryn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rvnryn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AcsOfficial&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rvnryn&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
