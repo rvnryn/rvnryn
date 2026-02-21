@@ -95,8 +95,8 @@ Public Trailhead profile highlighting Salesforce badges, superbadges, and contin
 ## 📄 Resume
 
 <div align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00F7FF"/>
+  <a href="https://drive.google.com/uc?export=view&id=1Z1OcZ3oOukK3Y11BMwQXgNcwHeg7_JAk" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00F7FF"/> </a>
   </a>
 </div>
 
